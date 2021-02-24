@@ -1,4 +1,9 @@
-### Hello! I am a first year PhD student in Economics at Goethe University Frankfurt, Germany. This is my personal GitHub.
+### Hello! 
+
+I am a first year PhD student in Economics at Goethe University Frankfurt, Germany. 
+This is my personal GitHub.
+
+🌱 I’m currently learning Python and MATLAB.
 
 <!--
 **camayl/camayl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
